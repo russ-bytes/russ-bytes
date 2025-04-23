@@ -65,6 +65,6 @@ Reach out.
 > "There are no rules — only systems you haven’t hacked yet."
 
 ---
-👀 Currently: Building on hard mode. Skipped the tutorial. Learning in public.  
-📍 Cape Town, South Africa | ⚡ Fun fact: I believe workflows should feel like spells.
+👀 Currently: Building on extreme hard mode. Skipped the tutorials. Learning in public.  
+⚡ Fun fact: I believe workflows should feel like spells.
 
