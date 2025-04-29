@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Russ
 
 🚀 **Automation Consultant | Systems Engineer | Builder of Better Processes**  
-🌐 [sudodev.online](https://sudodev.online) | 📫 [Contact Me](mailto:your@email.com) | 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01a2b3c4d5e6f7g8h9) | 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)
+🌐 [sudodev.online](https://sudodev.online) | 📫 [Contact Me](mailto:your@email.com) | 💼 [Upwork Profile]([https://www.upwork.com/freelancers/~01a2b3c4d5e6f7g8h9](https://www.upwork.com/freelancers/~01be4c72fda75527b3?viewMode=1)) | 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/russel-van-niekerk-a3321423/))
 
 ---
 
@@ -23,7 +23,7 @@ Think of me as your **tech whisperer for systems** – whether it's building cus
 
 #### ☁️ Infrastructure & Hosting
 - Self-hosting masters: **Docker**, **Ubuntu**, **Portainer**, **Oracle Cloud (Ampere)**
-- Deployment pipelines with alerts & health monitoring (Notify)
+- Deployment pipelines with alerts & health monitoring
 - Clean and secure stack setups that *you* own
 
 #### 📊 Marketing Ops & Lead Gen
