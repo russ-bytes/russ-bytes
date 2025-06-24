@@ -18,8 +18,11 @@ Think of me as your dedicated partner for **enhancing how your operations run**.
 
 Existing processes can be significantly enhanced, eliminating bottlenecks and freeing up valuable time. This involves connecting disparate tools and creating smooth, augmented data flows that simplify complex operations.
 
+
 * **Example for a Marketing Agency:** Augmenting client onboarding by integrating CRM, project management, and communication platforms to automatically trigger welcome emails and assign initial tasks.
+* 
 * **Example for an E-commerce Store:** Enhancing order fulfillment by connecting inventory systems, shipping platforms, and customer service tools to automate tracking updates and post-purchase communication.
+* 
 * **Example for a Consulting Firm:** Streamlining report generation by integrating data sources with document creation tools to automatically populate templates with client-specific insights.
 
 #### 📊 Marketing Operations & Client Growth
