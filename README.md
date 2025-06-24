@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Russ ...an
 
-**Automation Consultant | Systems Engineer | Builder of Better Processes**  
+**Automations Consultant | Systems Engineer | Builder of Better Processes**  
 ---
 🚀 **Links:** 🌐 [Augment Me](https://russ-bytes.github.io/augment/) |💼 [LinkedIn](https://www.linkedin.com/in/russel-van-niekerk-a3321423/)
 ---
