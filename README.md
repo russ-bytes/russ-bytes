@@ -67,6 +67,7 @@ My aim is to cultivate a full-stack consultancy dedicated to profoundly enhancin
 ---
 
 ### 💬 Let’s Connect
+[>Click Here to book<](https://cal.com/russvn/aiaudit)
 
 Whether you're looking to:
 
