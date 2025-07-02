@@ -2,8 +2,7 @@
 
 **Automations Consultant | Systems Engineer | Builder of Better Processes**  
 ---
- **Links:** 🚀 [Augment Me](https://russ-bytes.github.io/augment/) |💼 [About Me - In Web Page](https://russ-bytes.github.io/Profile/)
-🌐 [LinkedIn](https://www.linkedin.com/in/russel-van-niekerk-a3321423/)
+ **Links:** 🚀 [Augment Me](https://russ-bytes.github.io/augment/) | 💼 [About Me - In Web Page](https://russ-bytes.github.io/Profile/) | 🌐 [LinkedIn](https://www.linkedin.com/in/russel-van-niekerk-a3321423/)
 ---
 
 ### 🧠 About Me
