@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Russ ...an
+# 👋 Hey there, I’m Russ
 
 **Automations Consultant | Systems Engineer | Builder of Better Processes**  
 ---
