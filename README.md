@@ -13,6 +13,33 @@ Think of me as your dedicated partner for **enhancing how your operations run**.
 
 ---
 
+### 🧭 Vision
+
+My aim is to cultivate a full-stack consultancy dedicated to profoundly enhancing how businesses operate. The goal is to combine cutting-edge technology with increased operational autonomy, empowering the **individual business owner** to achieve the output and impact of a much larger enterprise.
+
+---
+
+### 🎯 Goals in Progress:
+
+* **Building a powerful internal business management system.**
+* **Developing a streamlined content delivery pipeline.**
+* **Creating a modular framework for rapid solution deployment.**
+
+---
+
+### 💬 Let’s Connect
+[>Click Here to book<](https://cal.com/russvn/aiaudit)
+
+Whether you're looking to:
+
+* Resolve an immediate operational bottleneck
+* Bring a long-desired process enhancement to life
+* Or just explore ideas on optimizing your business...
+
+Reach out.
+
+---
+
 ### 🔧 How I Augment Your Business
 
 #### 🛠️ Process Augmentation & Integration
@@ -51,31 +78,6 @@ Data can be transformed into actionable insights, and specialized tasks can be h
 * **Example for a Financial Advisor:** Streamlining client reporting by creating a custom utility that pulls disparate financial data, performs calculations, and generates personalized performance summaries.
 
 ---
-
-### 🧭 Vision
-
-My aim is to cultivate a full-stack consultancy dedicated to profoundly enhancing how businesses operate. The goal is to combine cutting-edge technology with increased operational autonomy, empowering the **individual business owner** to achieve the output and impact of a much larger enterprise.
-
----
-
-### 🎯 Goals in Progress:
-
-* **Building a powerful internal business management system.**
-* **Developing a streamlined content delivery pipeline.**
-* **Creating a modular framework for rapid solution deployment.**
-
----
-
-### 💬 Let’s Connect
-[>Click Here to book<](https://cal.com/russvn/aiaudit)
-
-Whether you're looking to:
-
-* Resolve an immediate operational bottleneck
-* Bring a long-desired process enhancement to life
-* Or just explore ideas on optimizing your business...
-
-Reach out.
 
 "There are no rules — only systems you haven’t enhanced yet."
 
