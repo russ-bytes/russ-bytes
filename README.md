@@ -1,6 +1,12 @@
 # **Augmentation Consultant | Systems Engineer | Builder of Better Processes**  
 ---
- **Links:** [CLICK ME FIRST](https://russ-bytes.github.io/offer) | 🚀 [Augment Me](https://russ-bytes.github.io/augment/) | 💼 [About Me - In Web Page](https://russ-bytes.github.io/Profile/) | 🌐 [LinkedIn](https://www.linkedin.com/in/russel-van-niekerk-a3321423/)
+ **Links:**   
+ 🎱 [CLICK ME FIRST](https://russ-bytes.github.io/offer) | 
+ 🚀 [Augment Me](https://russ-bytes.github.io/augment/) | 
+ 💼 [About Me - In Web Page](https://russ-bytes.github.io/Profile/) | 
+ 🌐 [LinkedIn](https://www.linkedin.com/in/russel-van-niekerk-a3321423/)
+ 
+ 
 ---
 
 ### 🧠 About Me
