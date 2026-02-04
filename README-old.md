@@ -1,7 +1,7 @@
 # **Augmentation Consultant | Systems Engineer | Builder of Better Processes**  
 ---
  **Links:**   
- 🎱 [CLICK ME FIRST](https://russ-bytes.github.io/offer) | 
+ 🎱 [CLICK ME FIRST](https://russ-bytes.github.io/offerX) | 
  🌐 [LinkedIn](https://www.linkedin.com/in/russel-van-niekerk-a3321423/)
  
  
@@ -30,7 +30,7 @@ My aim is to cultivate a full-stack consultancy dedicated to profoundly enhancin
 ---
 
 ### 💬 Let’s Connect
-[>Click Here to book<](https://cal.com/russvn/aiaudit)
+[>Click Here to book<](https://cal.com/russvn/aiauditX)
 
 Whether you're looking to:
 
