@@ -4,7 +4,7 @@ I work with business owners to improve the **structure, systems, and decisions**
 
 > *We don’t fix everything. We fix what matters — then we build from there.*
 
-**[Apply to work together →](https://cal.com/russvn/aiaudit)**
+**[Apply to work together](https://cal.com/russvn/aiaudit)** |  **[Contacts Page Offer](https://russ-bytes.github.io/contact-page-offer/)**
 
 ---
 
@@ -70,7 +70,7 @@ I work selectively to ensure every project receives proper implementation focus.
 
 If you'd like to explore whether there’s a fit:
 
-**[Apply here →](https://cal.com/russvn/aiaudit)**
+**[Apply here](https://cal.com/russvn/aiaudit)**
 
 ---
 ### Updated JUN 2026 
