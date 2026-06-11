@@ -1,71 +1,74 @@
-# Wealth Through Better Business Systems
+# Better Systems. Less Chaos. Stronger Business.
 
-I work with business owners to improve the **structure, systems, and decisions** that create long-term financial strength — one high-leverage change at a time.
+I work with business owners to improve the **structure, systems, and decisions** that create long-term financial strength, one **high-leverage change** at a time.
 
-**Start here → Unfortunately very strict on clients for now**
+> *We don’t fix everything. We fix what matters — then we build from there.*
+
+**[Apply to work together →](https://cal.com/russvn/aiaudit)**
+
+---
+
+## What I Help With
+
+**Practical systems** for businesses that want less friction and better operations:
+
+- Lead capture & follow-up systems
+- Client onboarding workflows
+- CRM & communication automation
+- Internal operational systems
+- Proposal and documentation workflows
+- AI-assisted business processes
+- Process simplification & optimization
 
 ---
 
 ## How I Work
 
-I don’t work on everything at once.
+I don't believe in overwhelming businesses with dozens of disconnected tools.
+Instead, we focus on one meaningful improvement at a time.
 
-We identify the **single biggest constraint** in your business, fix it properly, stabilize it, and only then move to the next leverage point.
+### 1. Identify the Constraint
+We uncover the real bottleneck limiting growth, responsiveness, profit, or operational capacity.
 
-This creates momentum, clarity, and measurable capacity growth.
+### 2. Design the Right System
+We build a practical, right-sized solution designed around how your business actually operates.
 
-**Approach**
-- Structured, not chaotic  
-- Sequential, not scattered  
-- Long-term wealth over short-term hacks  
+### 3. Implementation & Stabilization
+The system gets implemented, tested, and adjusted until it works reliably in day-to-day operations.
 
-**Next step → Unfortunately very strict on clients for now**
-
----
-
-## The Wealth Systems Approach™
-
-A practical framework for building stronger businesses without increasing overwhelm.
-
-**1. Constraint Identification**  
-We find the real bottleneck limiting growth, profit, or operational capacity.
-
-**2. System Design**  
-We design a practical, right-sized system to remove that constraint.
-
-**3. Implementation & Stabilization**  
-We implement the system and make sure it works reliably in real operations.
-
-**4. Capacity Expansion**  
-With the constraint removed, the business can now grow with less stress and more control.
-
-Each stage strengthens the foundation that supports long-term wealth.
+### 4. Capacity Growth
+Once the bottleneck is removed, your business can grow with less stress, more consistency, and clearer operations.
 
 ---
 
-## Who This Is NOT For
+## Who This Is For
 
-This is not a fit if you are:
+### Best suited for:
 
-- Looking for quick tricks or surface-level fixes  
-- Unwilling to change how your business currently operates  
-- Wanting someone to “just do everything” without strategic involvement  
+Service-based businesses
+Founder-led businesses
+Teams struggling with operational friction
+Businesses ready to improve systems properly
 
-This work requires focus, structure, and a commitment to improving the business in the right order.
+
+### Not ideal for:
+
+Quick hacks or shortcuts
+Businesses unwilling to improve existing processes
+“Do everything for me” expectations without involvement
 
 ---
 
 ## Working Together
 
-If you're ready to improve your business **systematically and strategically**:
+I work selectively to ensure every project receives proper implementation focus.
 
-**Apply here → [INSERT YOUR LINK]**
+If you'd like to explore whether there’s a fit:
 
-If it looks like a strong fit, I’ll reach out personally.
+**[Apply here →](https://cal.com/russvn/aiaudit)**
+
 ---
-### Updated 4 Feb 2026 
+### Updated JUN 2026 
 ---
-
-> *We don’t fix everything. We fix what matters — then we build from there.*
 
 
