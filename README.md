@@ -43,19 +43,24 @@ Once the bottleneck is removed, your business can grow with less stress, more co
 
 ## Who This Is For
 
+This works best for **service-based** or **founder-led** businesses where the owner is close enough to see the friction, but too deep in the day-to-day to fix it from the inside.
+
+**If your business has grown but the systems haven't kept up**, this is built for exactly that.
+
 ### Best suited for:
 
-Service-based businesses
-Founder-led businesses
-Teams struggling with operational friction
-Businesses ready to improve systems properly
+- Service-based businesses where operational inefficiency is limiting capacity.
+- Founder-led businesses where too much still depends on the owner personally.
+- Teams where the work is getting done, but not in a way that holds up under growth.
+- Owners ready to fix the real problem, not just the visible symptoms.
 
 
 ### Not ideal for:
 
-Quick hacks or shortcuts
-Businesses unwilling to improve existing processes
-“Do everything for me” expectations without involvement
+- Quick fixes or surface-level patches.
+- Unwilling to change how existing processes work.
+- Expecting external fixes without internal change.
+- Owners focused on growing revenue before fixing the foundation it needs to grow from.
 
 ---
 
