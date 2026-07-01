@@ -69,10 +69,10 @@ I work selectively to ensure every project receives proper implementation focus.
 
 If you'd like to explore whether there’s a fit:
 
-**[Apply here](https://cal.com/russvn/aiaudit)**
+Only via email for now.
 
 ---
-### Updated JUN 2026 
+### Updated JUL 2026 
 ---
 
 
