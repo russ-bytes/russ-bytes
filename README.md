@@ -2,7 +2,7 @@
 
 I work with business owners to improve the **structure, systems, and decisions** that create long-term financial strength, one **high-leverage change** at a time.
 
-> *We don’t fix everything. We fix what matters — then we build from there.*
+> *I don’t fix everything. I fix what matters, then we build from there.*
 
 
 ---
